@@ -1,0 +1,1 @@
+Unterschied: foo.txt und bar.txt sind nun gestaged (A), qux.txt ist weiterhin untracked (??).
