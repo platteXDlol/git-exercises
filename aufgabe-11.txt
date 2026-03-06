@@ -1,0 +1,15 @@
+git log -3 --pretty=oneline
+
+Ziegt letzte 3 commits
+
+
+
+git log --since="yesterday" -p
+
+Zeigt alle Code änderungen seit gestern
+
+
+
+git log --stat --name-only -1
+
+Zeigt welche Dateien und wie viele Zeilen geändert wurden
